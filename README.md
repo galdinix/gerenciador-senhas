@@ -1,2 +1,2 @@
 # gerenciador-senhas
-Programa gere suas senhas e cria senhas fortes
+Programa feito para gerenciar suas senhas e criar senhas fortes
